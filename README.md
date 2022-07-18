@@ -38,4 +38,4 @@
  | Logistic Regression | 0.9073 |
 
 ## ROC plot for all the models:
-![alt text](./images/Roc_all.png)
+![alt text](./Images/Roc_all.png)
