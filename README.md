@@ -39,3 +39,10 @@
 
 ## ROC plot for all the models:
 ![alt text](./Images/Roc_all.png)
+## ROC for best models:
+Logistic Regression | Light GBM
+:------------------:|:--------:|
+![alt](.Images/Roc_lr.png)| ![alt](.Images/Roc_lgbm.png)
+### Best Model
+* Logistic Regression: 
+   * auc-score = 0.91
